@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/style.scss to edit this template
+*/
+/*
+    Created on : Apr 17, 2023, 12:59:02 PM
+    Author     : Korisnik
+*/
+
+img{
+    max-width: 100%;
+}
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:border-box;
+    -o-box-sizing:border-box;
+}
+a{
+    text-decoration: none;
+}
+html{
+    font-size: 10px;
+}
+.container{
+    margin: 0 auto;
+    width: 95%;
+    max-width: 1200px;
+}
